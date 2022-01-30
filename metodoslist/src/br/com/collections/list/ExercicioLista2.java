@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import com.sun.org.apache.bcel.internal.generic.SWITCH;
-
 public class ExercicioLista2 {
 
 	public static void main(String[] args) {
